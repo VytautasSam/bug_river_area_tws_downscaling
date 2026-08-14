@@ -1,0 +1,19 @@
+{
+  "original_google_drive_ids": {
+    "elevation_zip": "16z6otyxV1KMd-16gJ9v8L4oXFIbq7rGj",
+    "lithology_zip": "1DwQUv75M1CxAdpjlfkamlrWxFrWMXiTA",
+    "land_cover_grid_zip": "1_5smwrdBH8wluxFPmgirzN5rzvnum0K-",
+    "land_cover_zip": "1QZBvFNMnr_kW-Kri7aigFtd1CZLvIDXD",
+    "hydroclimate_zip": "1ThTS-2SYkcHDjWskuhHeEODNjmLm25M9",
+    "new_runoff_zip": "1HRhqw5WfI276t3m_Av53ScWxlE52EqP5",
+    "land_surface_temperature_zip": "1KJ05fUqTcGmJwfoKCo6jKo4JAYeiBlag",
+    "grid_025_zip": "1WYLpIxRJwgZSL22I21Ljl2Zzo4daCSNH",
+    "grace_original_sheet": "1INhYnQJSYwCiLZeJsEgIgpMwxvMDDigz",
+    "grace_filled_sheet": "1ZRDiQ0md1rCaztuGF4EZrFWUu-MXX65K",
+    "soil_moisture_sheet": "16__m0mQv37Q96L7b7OwvHRpETcc1UeOA",
+    "wghm_original_05_sheet": "1HkZdSWi99JM8Ztol_8on8-CMY1NmX6KG",
+    "wghm_interpolated_01_sheet": "1I3pJiSX3XvLWa6RiXbPfP8TAa2xkOS2q",
+    "grace_seda_original_05_sheet": "1q3vup1MDz-C91up9MIHT8eAPoFyuyp_2",
+    "grace_seda_interpolated_01_sheet": "1xqwYE4oEot7Vtg2j5ZO3z0eWgcvO8PXN"
+  }
+}
